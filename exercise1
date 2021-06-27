@@ -26,4 +26,5 @@ function getResult(a, b, c) {
     } 
   
     console.log(getResult.x[i]); 
+
     
