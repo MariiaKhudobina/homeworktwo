@@ -1,0 +1,29 @@
+"use strict";
+
+function getResult(a, b, c) {
+    let taskResult = [
+      a = 2,
+      b = 4,
+      c = 3,
+      d = b ** 2 - 4 * a * c,
+      x,
+      x1,
+      x2]
+  }
+  
+   for (let i = 0; i < getResult; i++) {
+      if (d < 0) {
+        console.log("корней нет");
+      } else if (d === 0) {
+        x = (-b + math.sqrt(b ** 2 - 4 * a * c))/ 2 * a;
+        console.log("Значение" + $x + "равно");
+      } else if (d > 0) {
+        x1 = (-b + math.sqrt((b ** 2) - (4 * (a * c))))/ (2 * a);
+        x2 = (-b - math.sqrt((b ** 2) - (4 * (a * c))))/ (2 * a);
+        console.log("Значение" + $x1 , + $x2);
+      }
+      return x;
+    } 
+  
+    console.log(getResult.x[i]); 
+    
