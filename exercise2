@@ -1,6 +1,6 @@
 "use strict";
 
-function getResult (a,b,c){
+function solveEquation(a,b,c) {
     if (a==0) return "Ошибка";
     let d = (a, b, c) = Math.pow(b, 2) - 4 * a * c;
     let x1, x2;
@@ -16,3 +16,4 @@ function getResult (a,b,c){
     }
 }
 return (2, 4, 3);
+
